@@ -17,15 +17,7 @@ function App() {
                 }}
             >
                 <Layout className={'h-full w-full'}>
-                    <Header>
-                        <Adsense
-                            client="ca-pub-4882664754361963"
-                            slot="8810644722"
-                            style={{ display: 'block' }}
-                            layout="in-article"
-                            format="fluid"
-                        />
-                    </Header>
+                    <Header></Header>
                     <Content>
                         <div
                             className={
